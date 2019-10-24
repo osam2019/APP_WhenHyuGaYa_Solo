@@ -86,3 +86,4 @@ SplashActivity : Splash화면
   
 # 업데이트 정보 (Change Log)
 10/24 왠(When) 휴가야? ver 1.0 
+10/25 플래너 관련 버그 수정 ver1.01
